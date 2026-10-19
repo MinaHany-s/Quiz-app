@@ -2,6 +2,10 @@
 
 A simple and interactive quiz application built with React, TypeScript, and Tailwind CSS.
 
+## Live Demo
+
+[Try the Quiz App](https://quiz-app-phi-one.vercel.app/)
+
 ## Features
 
 - Choose the number of questions.
